@@ -79,15 +79,31 @@ Conexão JDBC segura
 
 🏗️ Arquitetura
 Cliente/App → REST API → Jakarta EE → JDBC → Derby Database
+
                 ↓
         Sistema de Agendamento PetShop
 🎓 Contexto Acadêmico
-Projeto desenvolvido para a disciplina APC Quatro da faculdade, focando em:
+Projeto desenvolvido para a disciplina Programação de sistemas da faculdade, focando em:
 
 Desenvolvimento de aplicações enterprise
 Implementação de web services RESTful
 Integração com banco de dados
 Simulação de sistema real de petshop
+
+📈 Evolução do Projeto
+Este projeto está em constante aprimoramento. À medida que avanço nos meus estudos e conhecimentos em desenvolvimento backend e arquitetura de sistemas, novas funcionalidades, melhorias de segurança, usabilidade e organização do código serão implementadas.
+
+📌 Melhorias futuras planejadas:
+
+Integração com autenticação de usuários (login e autenticação JWT)
+
+Validação de dados mais robusta
+
+Interface frontend para consumo da API (ex: React ou Angular)
+
+Utilização de testes automatizados (JUnit, REST-assured)
+
+Migração para banco de dados relacional mais robusto (ex: PostgreSQL)
 
 
 Projeto acadêmico - Sistema de Agendamento para PetShop
