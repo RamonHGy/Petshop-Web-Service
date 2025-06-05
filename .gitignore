@@ -1,0 +1,41 @@
+# Diretórios do NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nball/
+nbdist/
+
+# Arquivos de configuração com credenciais - IMPORTANTE!
+config.properties
+database.properties
+*.env
+
+# Arquivos específicos do NetBeans
+nbactions.xml
+nb-configuration.xml
+
+# Arquivos de compilação
+*.class
+
+# Bibliotecas externas (JARs locais)
+*.jar
+
+# Arquivos temporários e de backup
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs adicionais (caso alguém use outro)
+.idea/
+.vscode/
+*.iml
+
+# Maven/Gradle (se usar futuramente)
+target/
+.gradle/
