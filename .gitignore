@@ -36,6 +36,6 @@ Thumbs.db
 .vscode/
 *.iml
 
-# Maven/Gradle (se usar futuramente)
+# Maven/Gradle (caso use futuramente)
 target/
 .gradle/
