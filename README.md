@@ -91,19 +91,18 @@ Integração com banco de dados
 Simulação de sistema real de petshop
 
 📈 Evolução do Projeto
-Este projeto está em constante aprimoramento. À medida que avanço nos meus estudos e conhecimentos em desenvolvimento backend e arquitetura de sistemas, novas funcionalidades, melhorias de segurança, usabilidade e organização do código serão implementadas.
+
+Este projeto está em constante evolução. À medida que aprofundo meus conhecimentos em desenvolvimento backend e arquitetura de sistemas, novas funcionalidades, melhorias de segurança, usabilidade e organização do código serão implementadas. Também estão previstas migrações importantes, como a adoção do Spring Boot, Maven e Spring Data JPA.
 
 📌 Melhorias futuras planejadas:
 
-Integração com autenticação de usuários (login e autenticação JWT)
+Implementação de autenticação de usuários utilizando JWT (JSON Web Tokens)
 
-Validação de dados mais robusta
+Validação de dados mais robusta e segura
 
-Interface frontend para consumo da API (ex: React ou Angular)
+Criação de uma interface frontend para consumo da API (ex: React ou Angular)
 
-Utilização de testes automatizados (JUnit, REST-assured)
-
-Migração para banco de dados relacional mais robusto (ex: PostgreSQL)
+Migração para um banco de dados relacional mais robusto, como PostgreSQL
 
 
 Projeto acadêmico - Sistema de Agendamento para PetShop
